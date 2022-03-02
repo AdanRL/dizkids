@@ -1,0 +1,6 @@
+[submodule "dizkids-backend"]
+	path = dizkids-backend
+	url = git@github.com:AdanRL/dizkids-backend.git
+[submodule "dizkids-frontend"]
+	path = dizkids-frontend
+	url = git@github.com:AdanRL/dizkids-frontend.git
